@@ -14,6 +14,6 @@ You should create one R script called run_analysis.R that does the following.
 
 1. Download the data source from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and put into a folder on your local drive.
 2. Unzip file and you'll have a ```UCI HAR Dataset``` folder.
-3. Put ```run_analysis.R``` into the folder ```UCI HAR Dataset```, then set it as your working directory using ```setwd()``` function in RStudio to the fully qualified ```.../UCI HAR Dataset``` folder.
+3. Put ```run_analysis.R``` into the folder ```UCI HAR Dataset```, then set it as your working directory using ```setwd()``` function in RStudio the fully qualified ```.../UCI HAR Dataset``` folder.
 3. Run ```source("run_analysis.R")```, then it will generate a new file ```out_data_averages_per_activity_subject.txt``` in the working directory.
 
