@@ -2,7 +2,6 @@
 # the file is unziped into the "current directory"                      
 
 # STEP#1. Merges the training and the test sets to create one data set.
-library(reshape2)
 
 xTrain <- read.table("train/X_train.txt")
 xTest <- read.table("test/X_test.txt")
